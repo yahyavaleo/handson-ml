@@ -12,7 +12,7 @@ Moreover, distances lose meaning in higher dimensional data, since the differenc
 
 ## Once a dataset's dimensionality has been reduced, is it possible to reverse the operation? If so, how? If not, why?
 
-Reducing a dataset's dimensionality results in loss of information which makes it impossible to recover the original dataset perfectly. Moreover, although some algorithms, such as PCA, have some mechanism to perform the reverse operation, other algorithms, such as T-SNE, do not have this ability.
+Reducing a dataset's dimensionality results in loss of information which makes it impossible to recover the original dataset perfectly. Moreover, although some algorithms, such as PCA, have some mechanism to perform the reverse operation, other algorithms, such as t-SNE, do not have this ability.
 
 ## Can PCA be used to reduce the dimensionality of a highly nonlinear dataset?
 
